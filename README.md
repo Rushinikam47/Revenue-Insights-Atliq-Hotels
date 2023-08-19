@@ -1,6 +1,6 @@
-# Revenue-Insights-Atliq-Hotels
 
-✅ Project Title: Revenue Insights AtliQ hotels
+
+✅ **Project Title: Revenue Insights AtliQ hotels**
 
 
 
